@@ -1,2 +1,2 @@
-# Patika-SQL www.patika.dev
+# Patika-SQL 
 www.patika.dev
